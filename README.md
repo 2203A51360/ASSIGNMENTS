@@ -8,4 +8,4 @@ ASSIGNMENT[2] :https://github.com/2203A51360/ASSIGNMENTS/blob/main/ASSIGNMENT-2(
 
 ASSIGNMENT[3] :https://github.com/2203A51360/ASSIGNMENTS/blob/main/Assignment-3%20AIML.ipynb
 
-ML ASSIGNMENT :
+ML ASSIGNMENT :https://github.com/2203A51360/ASSIGNMENTS/blob/main/ML_Assignment1(2203A51360).ipynb
