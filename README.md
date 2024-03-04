@@ -7,3 +7,5 @@ ASSIGNMENT[1] task 3:https://github.com/2203A51360/ASSIGNMENTS/blob/main/ASSIGNM
 ASSIGNMENT[2] :https://github.com/2203A51360/ASSIGNMENTS/blob/main/ASSIGNMENT-2(2203A51360).ipynb
 
 ASSIGNMENT[3] :https://github.com/2203A51360/ASSIGNMENTS/blob/main/Assignment-3%20AIML.ipynb
+
+ML ASSIGNMENT :
