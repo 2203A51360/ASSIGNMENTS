@@ -10,4 +10,4 @@ ASSIGNMENT[3] :https://github.com/2203A51360/ASSIGNMENTS/blob/main/Assignment-3%
 
 ML ASSIGNMENT :https://github.com/2203A51360/ASSIGNMENTS/blob/main/ML_Assignment1(2203A51360).ipynb
 
-ML ASSIGNMENT 3:
+ML ASSIGNMENT 3:https://github.com/2203A51360/ASSIGNMENTS/blob/main/ML%20ASSIGNMENT3.ipynb
